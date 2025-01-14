@@ -1,0 +1,22 @@
+{
+  "navBar": {
+    "home": "Home",
+    "activities": "Activities",
+    "contact": "Contact",
+    "about": "About Us",
+    "media": "Media",
+    "news": "News"
+  },
+  "welcome": "Welcome to the Armenian Association of Digital Health",
+  "description": "Discover trust, knowledge, and support for a healthy lifestyle.",
+  "about_us": "About Us",
+  "mission": "Mission",
+  "services": "Our Services",
+  "faq": "Frequently Asked Questions",
+  "faq_question_1": "What symptoms indicate thyroid issues?",
+  "faq_answer_1": "Thyroid issues include fatigue, sudden weight changes, and skin dryness.",
+  "faq_question_2": "How can I undergo the diagnostic process?",
+  "faq_answer_2": "Simply contact our specialists using the contact form.",
+  "faq_question_3": "Is the treatment long-term?",
+  "faq_answer_3": "The treatment duration depends on individual circumstances. We provide customized plans."
+}

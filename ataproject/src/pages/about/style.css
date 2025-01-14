@@ -1,0 +1,80 @@
+  .about {
+    background-color: #ffffff;
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Main heading */
+  .about h1 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  /* Paragraph styling */
+  .about p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.8;
+    text-align: justify;
+    margin-top: 20px;
+    padding: 0 20px;
+  }
+  
+  /* List styling */
+  .about ul {
+    list-style-type: disc;
+    text-align: left;
+    margin-top: 20px;
+    padding-left: 40px;
+    font-size: 1.1rem;
+  }
+  
+  /* Team section */
+  .team {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+  }
+  
+  .team-member {
+    text-align: center;
+  }
+  
+  .team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    object-fit: cover;
+  }
+  
+  .team-member h4 {
+    font-size: 1.3rem;
+    color: #2c3e50;
+    margin-bottom: 5px;
+  }
+  
+  .team-member p {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  /* Hover effect for team members */
+  .team-member:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  /* Hover effect for the about section */
+  .about:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  

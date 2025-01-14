@@ -1,0 +1,58 @@
+.activity {
+    background-color: #ffffff;
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: all 0.3s ease;
+  }
+  
+
+  .activity h1 {
+    font-size: 3rem;
+    color: #2c3e50;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .activity h2 {
+    font-size: 1.8rem;
+    color: #3498db;
+    margin-bottom: 25px;
+    font-weight: 600;
+  }
+  
+  .activity h3 {
+    font-size: 1.5rem;
+    color: #34495e;
+    margin: 20px 0 10px;
+  }
+  
+  .activity p {
+    font-size: 1.1rem;
+    color: #555;
+    line-height: 1.8;
+    text-align: justify;
+    margin-top: 20px;
+    padding: 0 20px;
+  }
+
+  .activity ul {
+    text-align: left;
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  
+  .activity ul li {
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .activity:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
